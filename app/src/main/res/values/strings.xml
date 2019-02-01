@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SimpleListViewActivity!</string>
+    <string name="app_name">Batches</string>
+     <string name="ht" formatted ="false"><![CDATA[<ul>
+		<li>Batches App Prepares Batches and Corresponding Attendance Sheets.
+		</li>
+		
+		<li>Enter your School/College Name, Code, Subject and other details using [Set] preferrence dailog</li>
+		
+		<li>Create New Batch using [New] button and then entering first and last Seat Number. 
+		    Tick and select the Seat Numbers from the list, scrolling the list gently as required.  
+		    
+		 <li>Press [Pick] to verify the selection you have made. 
+	      </li>
+	      
+	      <li>Press [Save] button to save the Batch. 
+	      </li>
+	      <li>Press [@] button to send the current batch to the email(s) mentioned in preferences.
+	       
+		  </li>
+		  <li>Repeat the process to create required number of batches.
+	       
+		  </li>
+		    
+	      <li>Use open source Thunderbird pop client with addon - Attachment Extracter - to auto-collect all batches
+	         in one folder where BatchesPrint.jar is kept. Using BatchesPrint you bulk print them.
+	      </li> 
+	       <li>Alternatively you can use Dukto (Free Sofware) or any other file transfer app to send batches (.bch) files from Android to PC.
+	       </li>
+	       <li>BatchesCreate.jar is a clone desktop Application of Batches App. You can create or modify .bch files.
+	       
+	        </li>
+	        <li>BatchesFix is another utility to generate Time Table from these batches..
+	         
+	          </li> 
+	        <li>All Batches related Apps are available free along with source code on Sourceforge website in one zip file.</li>
+	<li>Download Link : http://sourceforge.net/projects/Batches/</li>
+	<li>Source Code is also availabel on Github :</li>
+	<li>https://github.com/milindoka/Batches</li>
+	<li>https://github.com/milindoka/BatchesPrint</li>
+	<li>https://github.com/milindoka/BatchesCreate</li>
+	<li>https://github.com/milindoka/BatchesFix</li>
+	<li>Contact : oak444@gmail.com</li>
+	
+	<li>Thanks for using Batches...</li>
+ </ul>
+ ]]></string>
+    
+    
+    
+</resources>
